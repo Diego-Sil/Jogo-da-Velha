@@ -20,18 +20,23 @@ body {
 .bloco{
     height: 100px;
     width: 100px;
-    border: solid;
+    border-style: solid;
 }
+
 
 /* Definido as cores de cada elemento */
 
 body{
     background-color: #90D7FF
 }
-h1 {
+h1, h3 {
     color: #0d10b1;
 }
 .bloco{
     background-color: #5DFDCB;
     border-color: #0e7bba;
+}
+
+h3{
+    background-color: #4db8f7;
 }
